@@ -1,6 +1,6 @@
 # Castlevania 3 Akumajou Denstsu Redux Hack
 
-Alucard new better Fireballs.
+Alucard new better Fireballs with adjusted damage.
 
 Sypha slightly rebalanced magic.
 
