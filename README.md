@@ -10,6 +10,8 @@ Rebalanced Holy Water damage.
 
 Ice Magic can damage all monsters including bosses.
 
+Lightning Orbs slightly better aiming.
+
 Faster door and character swapping animations.
 
 Rondo of Blood Subweapon Drops US version only.
