@@ -18,7 +18,7 @@ Jump on stage 7 Syfa route slightly easier now.
 
 Added Grant skip to falling block level on Alucard route stage 7.
 
-Reduced boss damage for Bone Dragon for Akumajou Densetsu to help reduce soft lock issues.
+Reduced weapon boss damage for Bone Dragon for Akumajou Densetsu to help reduce soft lock issues.
 
 Fixed slowdown in Clocktower sections that had it.
 
