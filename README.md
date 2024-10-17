@@ -1,10 +1,18 @@
 # Castlevania 3 Akumajou Denstsu Redux Hack
 
-Alucard new better fireballs.
+Alucard new better Fireballs.
 
-Grant slightly improved US version.
+Sypha slightly rebalanced magic.
 
-Rebalanced characters, and weapons.
+Daggers better damage US version only, and optional patch to make them pierce through monsters.
+
+Rebalanced Holy Water damage.
+
+Ice Magic can damage all monsters including bosses.
+
+Faster door and character swapping animations.
+
+Rondo of Blood Subweapon Drops US version only.
 
 Many QOL features.
 
